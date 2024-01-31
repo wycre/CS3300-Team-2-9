@@ -1,0 +1,8 @@
+﻿Title: GE02 
+Scrum Meeting Date:
+Scrum Coach: Abi Drennan
+Tech Lead: David Jones
+Team Members: Abi Drennan, David Jones, Conner Nelson
+Asynchronous team check ins: Tuesdays/Thursdays/Fridays
+Synchronous team stand up: Fridays after 1:30 pm
+Agenda:
