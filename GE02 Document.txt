@@ -6,4 +6,7 @@ Tech Lead: David Jones
 Team Members: Abi Drennan, David Jones, Conner Nelson
 Asynchronous team check ins: Tuesdays/Thursdays/Fridays
 Synchronous team stand up: Fridays after 1:30 pm
-Agenda:
+
+Agenda: 
+- figure out team name
+- split up technical document and see which parts other groups are doing
