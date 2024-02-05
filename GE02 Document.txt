@@ -1,5 +1,6 @@
-﻿Title: GE02 
-Scrum Meeting Date:
+﻿Title: GE02 Due February 14th 11:59 pm
+Team Name:
+Scrum Meeting Date: February 9th
 Scrum Coach: Abi Drennan
 Tech Lead: David Jones
 Team Members: Abi Drennan, David Jones, Conner Nelson
