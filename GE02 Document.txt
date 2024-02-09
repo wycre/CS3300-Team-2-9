@@ -11,4 +11,6 @@ Agenda:
 - figure out team name
 - split up technical document and see which parts other groups are doing
 - install Django
-- meet up for scrum meeting on Friday February 9th
+- meet up for scrum meeting on Friday February 9th at 1:30
+- team check in February 8th
+- 
