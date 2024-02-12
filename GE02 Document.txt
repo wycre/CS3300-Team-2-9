@@ -13,4 +13,4 @@ Agenda:
 - install Django
 - meet up for scrum meeting on Friday February 9th at 1:30
 - team check in February 8th
-- 
+- asynchronous check in February 11th
