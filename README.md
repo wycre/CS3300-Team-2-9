@@ -3,3 +3,4 @@
 
 ## Meeting Agenda
 - [ ] GE03 Roles
+- [ ] Who reserves the meeting room
