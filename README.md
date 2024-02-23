@@ -17,6 +17,6 @@ Current Tech Lead: Conner Nelson <br>
 
 ### Meeting Agenda
 - [X] GE03 Roles
-- [ ] Who reserves the meeting room
-- [ ] Review of currently assigned tasks
-- [ ] Documentation assignees
+- [X] Who reserves the meeting room
+- [X] Review of currently assigned tasks
+- [X] Documentation assignees
