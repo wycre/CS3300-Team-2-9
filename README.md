@@ -16,5 +16,7 @@ Current Tech Lead: Conner Nelson <br>
 - Synchronous team stand up: Fridays after 1:30
 
 ### Meeting Agenda
-- [ ] GE03 Roles
+- [X] GE03 Roles
 - [ ] Who reserves the meeting room
+- [ ] Review of currently assigned tasks
+- [ ] Documentation assignees
