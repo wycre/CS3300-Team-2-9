@@ -2,9 +2,9 @@
 ### **Documentation will be placed in [the wiki](https://github.com/wycre/CS3300-Team-2-9/wiki)**
 
 ## Team Information
-Current Sprint: GE03 <br>
-Current Scrum Coach: David Jones <br>
-Current Tech Lead: Conner Nelson <br>
+Current Sprint: GE04 <br>
+Current Scrum Coach: Conner Nelson <br>
+Current Tech Lead: Abi Drennan <br>
 
 ### Team Members:
 - Abi Drennan
