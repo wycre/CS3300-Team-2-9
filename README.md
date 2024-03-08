@@ -18,5 +18,5 @@ Current Tech Lead: Abi Drennan <br>
 ### Meeting Agenda
 - [X] Go Over Agenda (show on video)
 - [X] Documentation assignees
-- [X] Any Issues so Far?
 - [X] Get Everyone's Expected Timeline
+- [X] Post GE05 Team Expectations
