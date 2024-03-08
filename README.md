@@ -16,7 +16,7 @@ Current Tech Lead: Abi Drennan <br>
 - Synchronous team stand up: Fridays after 1:30
 
 ### Meeting Agenda
-- [X] Go Over Agenda (show on video)
-- [X] Documentation assignees
-- [X] Get Everyone's Expected Timeline
-- [X] Post GE05 Team Expectations
+- [ ] Go Over Agenda (show on video)
+- [ ] Documentation assignees
+- [ ] Get Everyone's Expected Timeline
+- [ ] Post GE05 Team Expectations
